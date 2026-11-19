@@ -58,6 +58,25 @@
    "updated": "18/11/2026"
   },
   {
+   "name": "wup_boy",
+   "title": "WUP Boy",
+   "author": "wup-homebrew",
+   "version": "1.0.0",
+   "category": "emu",
+   "license": "GPL-3.0-or-later",
+   "description": "Play Game Boy and Game Boy Color games",
+   "details": "Play Game Boy and Game Boy Color games",
+   "changelog": "",
+   "url": "",
+   "screens": 0,
+   "app_dls": 0,
+   "md5": "164356b5c51e1521ac6a01b3f72a49d5",
+   "filesize": 300,
+   "extracted": 300,
+   "binary": "apps/wup_boy/wup_boy.wup",
+   "updated": "18/11/2026"
+  },
+  {
    "name": "homebrew_menu",
    "title": "Homebrew Menu",
    "author": "wup-homebrew",
