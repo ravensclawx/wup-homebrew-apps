@@ -7,3 +7,6 @@ In the format of the Homebrew App Store's [libget](https://github.com/fortheuser
 packages, `zips/<name>.zip` holds each one's files (MD5 in `repo.json`), `packages/<name>/icon.png` its icon.
 
 Generated, not edited: in wup-homebrew, `python3 wup-menu/tools/mkrepo.py`, then copy `wup-menu/build/repo/` here.
+
+The apps' sources: the Homebrew Menu, App Store and Software Update in [wup-homebrew](https://github.com/ravensclawx/wup-homebrew);
+[WUP Stream](https://github.com/ravensclawx/wup-stream) and [WUP Boy](https://github.com/ravensclawx/wup-boy) in their own repositories (each package's `url` in `repo.json`).
